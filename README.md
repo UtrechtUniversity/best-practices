@@ -71,7 +71,6 @@ as well as the **ITS Department**.
 
 <!----------------------------------------------------------------------------->
 
-[Research Software]: https://content.iospress.com/articles/data-science/ds190026
 [Open Science]: https://www.uu.nl/en/research/open-science
 [Style Guide]: https://developers.google.com/style
 
@@ -81,12 +80,6 @@ as well as the **ITS Department**.
 [Topic Visibility]: Topics/Visibility.md
 [Topic Github]: Topics/Git%20&%20Github.md
 [Topic FAIR]: Topics/FAIR%20Software.md
-
-
-<!----------------------------------{ GitHub }--------------------------------->
-
-[Findability]: https://github.com/topics
-[Topics]: https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics
 
 
 <!--------------------------------{ Repository }------------------------------->

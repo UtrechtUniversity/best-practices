@@ -22,7 +22,7 @@ Recently, the **FAIR Principles** have been applied in the <br>
 <br>
 <br>
 
-### Quick start
+### Quick Start
 
 - **[Five Recommendations][FAIR Recommendations]** for **FAIR** Software.
 
