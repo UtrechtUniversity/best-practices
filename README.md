@@ -13,6 +13,7 @@ The community is strongly encouraged <br>
 to share best practices in this repository. 
 
 <br>
+<br>
 
 ## Topics
 
@@ -26,6 +27,9 @@ to share best practices in this repository.
 
 </div>
 
+<br>
+<br>
+
 ## Contributing
 
 ***Contributions to this repository are very welcome.***
@@ -33,6 +37,8 @@ to share best practices in this repository.
 The idea of this repository is to have a<br>
 collection of good practices tailored to <br>
 researchers of the **Utrecht University**.
+
+<br>
 
 #### Guidelines
 
@@ -48,6 +54,8 @@ researchers of the **Utrecht University**.
 - Use an editorial style guide for writing, preferably <br>
   the ***[Google developer documentation style guide][Style Guide]*** . 
 
+<br>
+<br>
 
 ## Contact
 
