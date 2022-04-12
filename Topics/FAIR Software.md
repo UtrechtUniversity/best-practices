@@ -1,20 +1,67 @@
-### FAIR Software
+# FAIR Software
 
-The [FAIR principles][FAIR] are a framework that is widely used in research data management. The acronym stands for Findable, Accessible, Interoperable and Reusable. Recently, the FAIR principles are applied to [research software] by Anna-Lena Lamprecht et al (2020). 
+The **[FAIR principles][FAIR]** are a framework that is <br>
+widely used in research data management.
 
-**Quick start**
+<br>
 
-- [Five Recommendations for FAIR Software][FAIR Recommendations]
+The acronym stands for:
 
-**Tools**
+ **Ｆ indable** <br>
+ **Ａ ccessible** <br>
+ **Ｉ nteroperable** <br>
+ **Ｒ eusable**
 
-- [Python package to analyze a GitHub or GitLab repository's compliance with the fair-software.eu recommendations][FAIR Software]
+<br>
 
-**Read more**
+Recently, the **FAIR Principles** have been applied in the <br>
+**[Research Software]** by `Anna-Lena Lamprecht et al`.
 
-- Paper on FAIR software principles: [Towards FAIR principles for research software (Lamprecht et al, 2020)][FAIR Software Principles]
-- Paper on FAIR data principles: [The FAIR Guiding Principles for scientific data management and stewardship][FAIR Data Principles]
-- Working group [*FAIR for Research Software (FAIR4RS)*][FAIR Group]
+*( 2020 )* 
+
+<br>
+<br>
+
+### Quick start
+
+- **[Five Recommendations][FAIR Recommendations]** for **FAIR** Software.
+
+<br>
+<br>
+
+### Tools
+
+- **[Python Package][FAIR Software]** to analyze a **GitHub** / **GitLab** repository's <br>
+compliance with the `fair-software.eu` recommendations.
+
+<br>
+<br>
+
+### More
+
+<br>
+
+- **FAIR Software Principles [ Paper ]**
+    
+    [`Towards FAIR principles for research software (Lamprecht et al, 2020)`][FAIR Software Principles]
+
+<br>
+
+- **FAIR Data Principles [ Paper ]**
+
+    [`The FAIR Guiding Principles for scientific data management and stewardship`][FAIR Data Principles]
+    
+<br>
+    
+- **Working Group** 
+
+    [`FAIR for Research Software ( FAIR4RS )`][FAIR Group]
+
+
+
+<!----------------------------------------------------------------------------->
+
+[Research Software]: https://content.iospress.com/articles/data-science/ds190026
 
 
 <!-----------------------------------{ FAIR }---------------------------------->
