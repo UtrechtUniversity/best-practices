@@ -51,7 +51,14 @@ researchers of the **Utrecht University**.
 
 ## Contact
 
-This repository is currently maintained by the [Utrecht University Open Science Programme][Open Science], and the ITS department. Are you an Utrecht University researcher or support staff and willing to help maintaining this repository? Reach out to its.ris@uu.nl.
+This repository is currently maintained by the <br>
+**[Utrecht University Open Science Programme][Open Science]** <br>
+as well as the **ITS Department**.
+
+*Are you an Utrecht University researcher or support* <br>
+*staff and willing to help maintaining this repository?*
+
+***Reach out to its.ris@uu.nl***
 
 
 <!----------------------------------------------------------------------------->
