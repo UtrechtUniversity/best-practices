@@ -21,7 +21,7 @@ to share best practices in this repository.
 
 <div align = center>
 
-**[<kbd>​<br> Using Git & Github <br>​</kbd>][Topic GitHub]**  
+**[<kbd>​<br> Using Git & GitHub <br>​</kbd>][Topic GitHub]**  
 **[<kbd>​<br>    FAIR Software    <br>​</kbd>][Topic FAIR]**  
 **[<kbd>​<br>    Visibility    <br>​</kbd>][Topic Visibility]**
 
@@ -78,7 +78,7 @@ as well as the **ITS Department**.
 <!----------------------------------{ Topics }--------------------------------->
 
 [Topic Visibility]: Topics/Visibility.md
-[Topic Github]: Topics/Git%20&%20Github.md
+[Topic GitHub]: Topics/Git%20&%20GitHub.md
 [Topic FAIR]: Topics/FAIR%20Software.md
 
 
