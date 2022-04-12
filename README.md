@@ -17,12 +17,12 @@ to share best practices in this repository.
 
 ## Topics
 
+<br>
+
 <div align = center>
 
-**[<kbd>​<br> Using Git & Github <br>​</kbd>][Topic GitHub]**
-
-**[<kbd>​<br>    FAIR Software    <br>​</kbd>][Topic FAIR]**
-
+**[<kbd>​<br> Using Git & Github <br>​</kbd>][Topic GitHub]**  
+**[<kbd>​<br>    FAIR Software    <br>​</kbd>][Topic FAIR]**  
 **[<kbd>​<br>    Visibility    <br>​</kbd>][Topic Visibility]**
 
 </div>
