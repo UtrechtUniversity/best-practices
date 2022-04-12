@@ -46,7 +46,7 @@ beginning, but ***will be worth all the effort***.
 
 ### More
 
-- [`Git vs Github – Demystifying The Differences`][Git Vs GitHub]
+ ◈ [`Git vs Github – Demystifying The Differences`][Git Vs GitHub]
 
 
 <!----------------------------------------------------------------------------->
