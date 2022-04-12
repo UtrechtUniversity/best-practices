@@ -9,25 +9,35 @@ your research software more visible.
 <br>
 <br>
 
-### Quick Start
+## Quick Start
 
-- **[Customize Your Profile][Profile Customization]** by adding a **Bio** and a **README** .
+<br>
 
-- Link your **Github Profile** to your **[Staff Page]** .
+ ◈ **[Customize Your Profile][Profile Customization]** by adding a **Bio** and a **README** .
 
-- Add **[Topics]** to your repository to increase **[Findability]** .
+<br>
 
-    *There is also topic for [`#utrecht-university`][Topic University].*
+ ◈ Link your **Github Profile** to your **[Staff Page]** .
+
+<br>
+
+ ◈ Add **[Topics]** to your repository to increase **[Findability]** .
+
+   *There is also topic for [`#utrecht-university`][Topic University].*
 
 <br>
 <br>
 
-### More
+## More
 
-- **Utrecht University** visibility **[Todo List]** .
+<br>
 
-- Use **[Github Pages]** to publish a project overview and <br>
-link to all relevant repositories and collaborators.
+ ◈ **Utrecht University** visibility **[Todo List]** .
+
+<br>
+
+ ◈ Use **[Github Pages]** to publish a project overview and <br>
+   link to all the relevant repositories and collaborators.
 
 
 <!----------------------------------{ GitHub }--------------------------------->
