@@ -3,19 +3,28 @@
 
 **Git** is `free` and `open-source` version management system.
 
+<br>
+
 *It was created in `2005` and is nowadays the* <br>
 *de facto standard version control software* <br>
 *for software development.*
+
+<br>
 
 **GitHub** is an online service based on **Git** <br>
 that makes it easy to work together and <br>
 share your work openly.
 
+<br>
+
 ***It can also be used as a backup of your local work.***
+
+<br>
 
 Learning **Git** and **GitHub** can be steep in the <br>
 beginning, but ***will be worth all the effort***. 
 
+<br>
 <br>
 
 ### Quick start
@@ -33,8 +42,9 @@ beginning, but ***will be worth all the effort***.
 *〈 Optional 〉*
 
 <br>
+<br>
 
-### Read more
+### More
 
 - [`Git vs Github – Demystifying The Differences`][Git Vs GitHub]
 
