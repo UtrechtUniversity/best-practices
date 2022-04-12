@@ -26,21 +26,27 @@ to share best practices in this repository.
 
 </div>
 
-
-
-
-
-
 ## Contributing
 
-Contributions to this repository are very welcome. The main idea of this repository is to have a collection of good practices tailored to researchers at Utrecht University. 
+***Contributions to this repository are very welcome.***
 
-The following contribution guidelines apply to this repository: 
+The idea of this repository is to have a<br>
+collection of good practices tailored to <br>
+researchers of the **Utrecht University**.
 
-- Open a Pull Request or file an Issue if you have anything to add, change, or delete. 
-- Browse the [issue with label Help Wanted][Issues] to see what you can contribute 
-- Create a new topic if necessary. 
-- Use an editorial style guide for writing, preferably the [Google developer documentation style guide][Style Guide]. 
+#### Guidelines
+
+- Open a Pull Request or file an Issue if you <br>
+  have anything to ***add*** , ***change*** or ***delete***.
+
+- Browse the **[Issues]** that are labeled <br>
+     `Help Wanted` <br>
+  to see what you can contribute to.
+
+- *Create a new topic if necessary.*
+
+- Use an editorial style guide for writing, preferably <br>
+  the ***[Google developer documentation style guide][Style Guide]*** . 
 
 
 ## Contact
