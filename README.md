@@ -1,6 +1,6 @@
 ![Banner]
 
-# Best practices
+# Best practices [![Badge License]][License]
 
 Welcome at the best practices for git, research software development, and research data management. This repository was created for and by researchers and support staff of Utrecht University. The community is strongly encouraged to share best practices in this repository. 
 
@@ -66,9 +66,6 @@ The following contribution guidelines apply to this repository:
 - Create a new topic if necessary. 
 - Use an editorial style guide for writing, preferably the [Google developer documentation style guide][Style Guide]. 
 
-## License
-
-The content in this repository is licensed [CC0-1.0][License] (release to the public domain).
 
 ## Contact
 
@@ -117,3 +114,5 @@ This repository is currently maintained by the [Utrecht University Open Science 
 <!---------------------------------{ Graphics }-------------------------------->
 
 [Banner]: images/banner.jpg
+
+[Badge License]: https://licensebuttons.net/l/zero/1.0/80x15.png
