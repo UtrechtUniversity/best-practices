@@ -42,7 +42,7 @@ researchers of the **Utrecht University**.
 
 #### Guidelines
 
-- Open a Pull Request or file an Issue if you <br>
+- Open a **[Pull Request]** or file an Issue if you <br>
   have anything to ***add*** , ***change*** or ***delete***.
 
 - Browse the **[Issues]** that are labeled <br>
@@ -84,6 +84,7 @@ as well as the **ITS Department**.
 
 <!--------------------------------{ Repository }------------------------------->
 
+[Pull Request]: https://github.com/UtrechtUniversity/best-practices/pulls
 [Issues]: https://github.com/UtrechtUniversity/best-practices/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [License]: LICENSE
 
