@@ -46,7 +46,7 @@ researchers of the **Utrecht University**.
   have anything to ***add*** , ***change*** or ***delete***.
 
 - Browse the **[Issues]** that are labeled <br>
-     `Help Wanted` <br>
+     ![Badge Help] <br>
   to see what you can contribute to.
 
 - *Create a new topic if necessary.*
@@ -91,5 +91,6 @@ as well as the **ITS Department**.
 <!---------------------------------{ Graphics }-------------------------------->
 
 [Badge License]: https://licensebuttons.net/l/zero/1.0/80x15.png
+[Badge Help]: https://img.shields.io/badge/-_Ｈｅｌｐ_Ｗａｎｔｅｄ_-014138
 [Banner]: images/banner.jpg
 
