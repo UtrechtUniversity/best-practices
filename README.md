@@ -1,75 +1,97 @@
-![banner.jpg](images/banner.jpg)
+![Banner]
 
-# Best practices
+# Best practices [![Badge License]][License]
 
-Welcome at the best practices for git, research software development, and research data management. This repository was created for and by researchers and support staff of Utrecht University. The community is strongly encouraged to share best practices in this repository. 
+Welcome at the best practices for git, <br>
+research software development, and <br>
+research data management.
+
+This repository was created for and by researchers <br>
+as well as support staff of the **University of Utrecht**.
+
+The community is strongly encouraged <br>
+to share best practices in this repository. 
+
+<br>
+<br>
 
 ## Topics
 
-### Using Git and Github
+<br>
 
-Git is free and open-source software for version management. It was created in the 2005 and is nowadays the facto-standard version control software for software development. GitHub is an online service based on Git that makes it easy to work together and share your work openly. It can also be used as a backup of your local work. Learning Git and GitHub can be steep in the beginning, but will be worth all the effort. 
+<div align = center>
 
-**Quick start**
+**[<kbd>​<br> Using Git & GitHub <br>​</kbd>][Topic GitHub]**  
+**[<kbd>​<br>    FAIR Software    <br>​</kbd>][Topic FAIR]**  
+**[<kbd>​<br>    Visibility    <br>​</kbd>][Topic Visibility]**
 
-1. [Create GitHub Account](https://github.com/join)
-2. [Download and install GitHub Desktop](https://desktop.github.com/)
-3. [Authenticate GitHub for Utrecht University](https://github.com/UtrechtUniversity/getting-started) [OPTIONAL]
-4. [Create your first repository with Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview)
+</div>
 
-**Read more**
-
-- [Git vs Github – Demystifying The Differences](https://www.edureka.co/blog/git-vs-github/)
-
-### FAIR Software
-
-The [FAIR principles](https://www.nature.com/articles/sdata201618) are a framework that is widely used in research data management. The acronym stands for Findable, Accessible, Interoperable and Reusable. Recently, the FAIR principles are applied to [research software](https://content.iospress.com/articles/data-science/ds190026) by Anna-Lena Lamprecht et al (2020). 
-
-**Quick start**
-
-- [Five Recommendations for FAIR Software](https://fair-software.eu/)
-
-**Tools**
-
-- [Python package to analyze a GitHub or GitLab repository's compliance with the fair-software.eu recommendations](https://github.com/fair-software/howfairis)
-
-**Read more**
-
-- Paper on FAIR software principles: [Towards FAIR principles for research software (Lamprecht et al, 2020)](https://content.iospress.com/articles/data-science/ds190026)
-- Paper on FAIR data principles: [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
-- Working group *FAIR for Research Software (FAIR4RS)* https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg
-
-### Visibility
-
-To facilitate reuse of your wonderful work, people should be able to find you and your work. GitHub offers a lot of options to make your research software more visible. 
-
-**Quick start**
-
-- Add a [bio and profile README to your GitHub account](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) 
-- Add GitHub profile to [your staff page](https://www.uu.nl/staff/)
-- Add [topics](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics) to your repository to increase findability https://github.com/topics. There is also topic for [`#utrecht-university`](https://github.com/topics/utrecht-university).
-
-**Read more**
-
-- [Utrecht University Visibility To-Do List](https://www.uu.nl/en/university-library/advice-support-to/researchers/visibility/research-visibility-check/visibility-to-do-list)
-- Use [Github Pages](https://pages.github.com/) to publish a project overview and link to all relevant repositories and collaborators
-
+<br>
+<br>
 
 ## Contributing
 
-Contributions to this repository are very welcome. The main idea of this repository is to have a collection of good practices tailored to researchers at Utrecht University. 
+***Contributions to this repository are very welcome.***
 
-The following contribution guidelines apply to this repository: 
+The idea of this repository is to have a<br>
+collection of good practices tailored to <br>
+researchers of the **Utrecht University**.
 
-- Open a Pull Request or file an Issue if you have anything to add, change, or delete. 
-- Browse the [issue with label Help Wanted](https://github.com/UtrechtUniversity/best-practices/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to see what you can contribute 
-- Create a new topic if necessary. 
-- Use an editorial style guide for writing, preferably the [Google developer documentation style guide](https://developers.google.com/style). 
+<br>
 
-## License
+#### Guidelines
 
-The content in this repository is licensed [CC0-1.0](/LICENSE) (release to the public domain).
+- Open a **[Pull Request]** or file an Issue if you <br>
+  have anything to ***add*** , ***change*** or ***delete***.
+
+- Browse the **[Issues]** that are labeled <br>
+     ![Badge Help] <br>
+  to see what you can contribute to.
+
+- *Create a new topic if necessary.*
+
+- Use an editorial style guide for writing, preferably <br>
+  the ***[Google developer documentation style guide][Style Guide]*** . 
+
+<br>
+<br>
 
 ## Contact
 
-This repository is currently maintained by the [Utrecht University Open Science Programme](https://www.uu.nl/en/research/open-science), and the ITS department. Are you an Utrecht University researcher or support staff and willing to help maintaining this repository? Reach out to its.ris@uu.nl. 
+This repository is currently maintained by the <br>
+**[Utrecht University Open Science Programme][Open Science]** <br>
+as well as the **ITS Department**.
+
+*Are you an Utrecht University researcher or support* <br>
+*staff and willing to help maintaining this repository?*
+
+***Reach out to its.ris@uu.nl***
+
+
+<!----------------------------------------------------------------------------->
+
+[Open Science]: https://www.uu.nl/en/research/open-science
+[Style Guide]: https://developers.google.com/style
+
+
+<!----------------------------------{ Topics }--------------------------------->
+
+[Topic Visibility]: Topics/Visibility.md
+[Topic GitHub]: Topics/Git%20&%20GitHub.md
+[Topic FAIR]: Topics/FAIR%20Software.md
+
+
+<!--------------------------------{ Repository }------------------------------->
+
+[Pull Request]: https://github.com/UtrechtUniversity/best-practices/pulls
+[Issues]: https://github.com/UtrechtUniversity/best-practices/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[License]: LICENSE
+
+
+<!---------------------------------{ Graphics }-------------------------------->
+
+[Badge License]: https://licensebuttons.net/l/zero/1.0/80x15.png
+[Badge Help]: https://img.shields.io/badge/-_Ｈｅｌｐ_Ｗａｎｔｅｄ_-014138
+[Banner]: images/banner.jpg
+
