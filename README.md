@@ -2,7 +2,17 @@
 
 # Best practices [![Badge License]][License]
 
-Welcome at the best practices for git, research software development, and research data management. This repository was created for and by researchers and support staff of Utrecht University. The community is strongly encouraged to share best practices in this repository. 
+Welcome at the best practices for git, <br>
+research software development, and <br>
+research data management.
+
+This repository was created for and by researchers <br>
+as well as support staff of the **University of Utrecht**.
+
+The community is strongly encouraged <br>
+to share best practices in this repository. 
+
+<br>
 
 ## Topics
 
