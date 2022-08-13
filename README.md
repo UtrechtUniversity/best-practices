@@ -76,6 +76,6 @@ as well as the **ITS Department**.
 <!---------------------------------[ Buttons ]--------------------------------->
 
 [Button Contribute]: https://img.shields.io/badge/How_To_Contribute-569a31.svg?style=for-the-badge&logoColor=white&logo=GitExtensions
-[Button Visible]: https://img.shields.io/badge/Visibility-AA344D.svg?style=for-the-badge&logoColor=white&logo=GitHub
+[Button Visible]: https://img.shields.io/badge/Visibility-AA344D.svg?style=for-the-badge&logoColor=white&logo=Facepunch
 [Button Usage]: https://img.shields.io/badge/Git_&_GitHub-00A8E1.svg?style=for-the-badge&logoColor=white&logo=GitHub
 [Button FAIR]: https://img.shields.io/badge/FAIR_Software-009688.svg?style=for-the-badge&logoColor=white&logo=Asana
