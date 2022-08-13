@@ -1,7 +1,7 @@
 
 # Using Git & GitHub
 
-**Git** is `free` and `open-source` version management system.
+**Git** is  `free`  and  `open-source`  version management system.
 
 <br>
 
@@ -29,34 +29,28 @@ beginning, but ***will be worth all the effort***.
 
 ### Quick start
 
-1.   [Make a GitHub account][Create Account]
+1.        [Make a GitHub account][Create Account]
 
-2.   [Download / Install `GitHub Desktop`][Install GitHub]
+2.        [Download / Install `GitHub Desktop`][Install GitHub]
 
-3. 〈 [Connect your account to the university][Getting Started] 〉
+3.  〈  [Connect your account to the university][Getting Started]  〉  *Optional*
 
-4.   [Create your first repository][Create Repository]
-
-<br>
-
-*〈 Optional 〉*
+4.        [Create your first repository][Create Repository]
 
 <br>
 <br>
 
 ### More
 
- ◈ [`Git vs Github – Demystifying The Differences`][Git Vs GitHub]
+-   [`Git vs Github – Demystifying The Differences`][Git Vs GitHub]
+
+<br>
 
 
 <!----------------------------------------------------------------------------->
-
-[Git Vs Github]: https://www.edureka.co/blog/git-vs-github/
-
-
-<!----------------------------------{ Steps }---------------------------------->
 
 [Create Repository]: https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview
 [Getting Started]: https://github.com/UtrechtUniversity/getting-started
 [Install GitHub]: https://desktop.github.com/
 [Create Account]: https://github.com/join
+[Git Vs Github]: https://www.edureka.co/blog/git-vs-github/

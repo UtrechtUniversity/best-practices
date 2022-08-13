@@ -1,10 +1,17 @@
+
+<div align = center>
+
 ![Banner]
 
-# Best practices [![Badge License]][License]
+<br>
 
-Welcome at the best practices for git, <br>
-research software development, and <br>
-research data management.
+[![Badge License]][License]   
+[![Badge Contribute]][Contribute]
+
+<br>
+
+Welcome to the best practices for git, research software <br>
+development and research data management.
 
 This repository was created for and by researchers <br>
 as well as support staff of the **University of Utrecht**.
@@ -21,41 +28,18 @@ to share best practices in this repository.
 
 <div align = center>
 
-**[<kbd>​<br> Using Git & GitHub <br>​</kbd>][Topic GitHub]**  
-**[<kbd>​<br>    FAIR Software    <br>​</kbd>][Topic FAIR]**  
-**[<kbd>​<br>    Visibility    <br>​</kbd>][Topic Visibility]**
+[![Button Usage]][Usage]   
+[![Button FAIR]][FAIR]
+
+[![Button Visible]][Visible]   
+[![Button Contribute]][Contribute]
 
 </div>
 
 <br>
 <br>
 
-## Contributing
 
-***Contributions to this repository are very welcome.***
-
-The idea of this repository is to have a<br>
-collection of good practices tailored to <br>
-researchers of the **Utrecht University**.
-
-<br>
-
-#### Guidelines
-
-- Open a **[Pull Request]** or file an Issue if you <br>
-  have anything to ***add*** , ***change*** or ***delete***.
-
-- Browse the **[Issues]** that are labeled <br>
-     ![Badge Help] <br>
-  to see what you can contribute to.
-
-- *Create a new topic if necessary.*
-
-- Use an editorial style guide for writing, preferably <br>
-  the ***[Google developer documentation style guide][Style Guide]*** . 
-
-<br>
-<br>
 
 ## Contact
 
@@ -68,30 +52,30 @@ as well as the **ITS Department**.
 
 ***Reach out to its.ris@uu.nl***
 
+<br>
+
 
 <!----------------------------------------------------------------------------->
 
 [Open Science]: https://www.uu.nl/en/research/open-science
-[Style Guide]: https://developers.google.com/style
+[Contribute]: Topics/Contributing.md
+[Visible]: Topics/Visibility.md
+[Usage]: Topics/Git%20&%20GitHub.md
+[FAIR]: Topics/FAIR%20Software.md
 
-
-<!----------------------------------{ Topics }--------------------------------->
-
-[Topic Visibility]: Topics/Visibility.md
-[Topic GitHub]: Topics/Git%20&%20GitHub.md
-[Topic FAIR]: Topics/FAIR%20Software.md
-
-
-<!--------------------------------{ Repository }------------------------------->
-
-[Pull Request]: https://github.com/UtrechtUniversity/best-practices/pulls
-[Issues]: https://github.com/UtrechtUniversity/best-practices/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
 [License]: LICENSE
-
-
-<!---------------------------------{ Graphics }-------------------------------->
-
-[Badge License]: https://licensebuttons.net/l/zero/1.0/80x15.png
-[Badge Help]: https://img.shields.io/badge/-_Ｈｅｌｐ_Ｗａｎｔｅｄ_-014138
 [Banner]: images/banner.jpg
 
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge Contribute]: https://img.shields.io/badge/Contributions-Welcome-3a6620.svg?style=for-the-badge&labelColor=569A31&logoColor=white&logo=GitHub
+[Badge License]: https://img.shields.io/badge/-Zero-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+
+
+<!---------------------------------[ Buttons ]--------------------------------->
+
+[Button Contribute]: https://img.shields.io/badge/How_To_Contribute-569a31.svg?style=for-the-badge&logoColor=white&logo=GitExtensions
+[Button Visible]: https://img.shields.io/badge/Visibility-AA344D.svg?style=for-the-badge&logoColor=white&logo=GitHub
+[Button Usage]: https://img.shields.io/badge/Git_&_GitHub-00A8E1.svg?style=for-the-badge&logoColor=white&logo=GitHub
+[Button FAIR]: https://img.shields.io/badge/FAIR_Software-009688.svg?style=for-the-badge&logoColor=white&logo=Asana

@@ -1,3 +1,4 @@
+
 # Visibility
 
 To facilitate the reuse of your wonderful work, <br>
@@ -13,17 +14,17 @@ your research software more visible.
 
 <br>
 
- ◈ **[Customize Your Profile][Profile Customization]** by adding a **Bio** and a **README** .
+-   **[Customize Your Profile][Profile Customization]** by adding a **Bio** and a **README** .
 
 <br>
 
- ◈ Link your **Github Profile** to your **[Staff Page]** .
+-   Link your **Github Profile** to your **[Staff Page]** .
 
 <br>
 
- ◈ Add **[Topics]** to your repository to increase **[Findability]** .
+-   Add **[Topics]** to your repository to increase **[Findability]** .
 
-   *There is also topic for [`#utrecht-university`][Topic University].*
+    *There is also topic for [`#utrecht-university`][Topic University].*
 
 <br>
 <br>
@@ -32,12 +33,14 @@ your research software more visible.
 
 <br>
 
- ◈ **Utrecht University** visibility **[Todo List]** .
+-   **Utrecht University** visibility **[Todo List]** .
 
 <br>
 
- ◈ Use **[Github Pages]** to publish a project overview and <br>
-   link to all the relevant repositories and collaborators.
+-   Use **[Github Pages]** to publish a project overview and <br>
+    link to all the relevant repositories and collaborators.
+    
+<br>
 
 
 <!----------------------------------{ GitHub }--------------------------------->

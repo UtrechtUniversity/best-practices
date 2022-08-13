@@ -15,7 +15,7 @@ The acronym stands for:
 <br>
 
 Recently, the **FAIR Principles** have been applied in the <br>
-**[Research Software]** by `Anna-Lena Lamprecht et al`.
+**[Research Software]** by  `Anna-Lena Lamprecht et al` .
 
 *( 2020 )* 
 
@@ -24,15 +24,15 @@ Recently, the **FAIR Principles** have been applied in the <br>
 
 ### Quick Start
 
- ◈ **[Five Recommendations][FAIR Recommendations]** for **FAIR** Software.
+-   **[Five Recommendations][FAIR Recommendations]** for **FAIR** Software.
 
 <br>
 <br>
 
 ### Tools
 
- ◈ **[Python Package][FAIR Software]** to analyze a **GitHub** / **GitLab** repository's <br>
-   compliance with the `fair-software.eu` recommendations.
+-   **[Python Package][FAIR Software]** to analyze a **GitHub** / **GitLab** repository's <br>
+    compliance with the  `fair-software.eu`  recommendations.
 
 <br>
 <br>
@@ -41,22 +41,23 @@ Recently, the **FAIR Principles** have been applied in the <br>
 
 <br>
 
- ◈ **FAIR Software Principles [ Paper ]**
+-   **FAIR Software Principles [ Paper ]**
     
-   [`Towards FAIR principles for research software (Lamprecht et al, 2020)`][FAIR Software Principles]
+    [`Towards FAIR principles for research software (Lamprecht et al, 2020)`][FAIR Software Principles]
 
 <br>
 
- ◈ **FAIR Data Principles [ Paper ]**
+-   **FAIR Data Principles [ Paper ]**
 
-   [`The FAIR Guiding Principles for scientific data management and stewardship`][FAIR Data Principles]
+    [`The FAIR Guiding Principles for scientific data management and stewardship`][FAIR Data Principles]
     
 <br>
     
- ◈ **Working Group** 
+-   **Working Group** 
 
-   [`FAIR for Research Software ( FAIR4RS )`][FAIR Group]
+    [`FAIR for Research Software ( FAIR4RS )`][FAIR Group]
 
+<br>
 
 
 <!----------------------------------------------------------------------------->
