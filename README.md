@@ -20,6 +20,9 @@ Git is free and open-source software for version management. It was created in t
 **Read more**
 
 - [Git vs Github – Demystifying The Differences](https://www.edureka.co/blog/git-vs-github/)
+- [Learn how to use GitHub with interactive courses designed for beginners and experts](https://skills.github.com)
+- [Version Control with Git by The Carpentries](https://swcarpentry.github.io/git-novice/)
+- [RDM course: Best Practices for Writing Reproducible Code](https://www.uu.nl/en/research/research-data-management/training-workshops/best-practices-for-writing-reproducible-code)
 
 ### FAIR Software
 
